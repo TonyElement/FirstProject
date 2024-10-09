@@ -2,10 +2,16 @@ Body {
     background-color: black;
 }
 
+.Christmas {
+    font-family: cursive;
+    font-size: 45px;
+    color: cornsilk;
+    text-align: center;
+}
 
 h1 {
     color: cornsilk;
-    background-image: linear-gradient(blue, purple);
+    background-image: radial-gradient(darkgreen, green, white);
     text-align: center;
-    outline-style:solid; outline-color: grey
+    outline-style:solid; outline-color: silver
 }
